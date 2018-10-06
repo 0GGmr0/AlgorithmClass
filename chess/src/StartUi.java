@@ -13,7 +13,6 @@ class StartUi extends JFrame {
 
     StartUi() {
         super("棋盘覆盖程序");
-//        Container container = this.getContentPane();
         // 启动程序按钮
         JButton button = new JButton("启动程序");
         // 输入框
