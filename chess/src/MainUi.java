@@ -10,7 +10,7 @@ import java.util.Random;
  * @author: ggmr
  * @create: 2018-10-05 18:09
  */
-class MainUi extends JFrame implements ActionListener {
+class MainUi extends JFrame {
     private static int tile = 0;
     private int[][] record;
     private JLabel[][] Board;
@@ -156,10 +156,5 @@ class MainUi extends JFrame implements ActionListener {
             //覆盖其余方格
             chessBoard(tr + s, tc + s, tr + s, tc + s, s);
         }
-    }
-
-    @Override
-    public void actionPerformed(ActionEvent e) {
-
     }
 }
