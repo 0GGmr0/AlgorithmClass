@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77f5cf4f-9ffb-44ca-bb95-c967316eb95f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../chess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chess/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chess/out/production/chess/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chess/out/production/chess/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chess/out/production/chess/MainUi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chess/out/production/chess/MainUi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chess/out/production/chess/StartUi$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chess/out/production/chess/StartUi$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chess/out/production/chess/StartUi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chess/out/production/chess/StartUi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chess/src/MainUi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chess/src/MainUi.java" afterDir="false" />
-    </list>
+    <list default="true" id="77f5cf4f-9ffb-44ca-bb95-c967316eb95f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,22 +80,22 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-244677197">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MaxLen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1017">
-              <caret line="82" column="34" lean-forward="true" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MatrixMul.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="-847">
               <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
@@ -118,7 +111,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -270,17 +263,18 @@
       <workItem from="1540383978345" duration="216000" />
       <workItem from="1540443712397" duration="451000" />
       <workItem from="1540692882616" duration="23000" />
+      <workItem from="1540980267634" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29474000" />
+    <option name="totallyTimeSpent" value="29478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29682997" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3018732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -366,16 +360,10 @@
     <entry file="file://$PROJECT_DIR$/src/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/test.sh" />
     <entry file="file://$PROJECT_DIR$/src/Test1.java" />
-    <entry file="file://$PROJECT_DIR$/src/MaxLen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1017">
-          <caret line="82" column="34" lean-forward="true" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxLen.java" />
     <entry file="file://$PROJECT_DIR$/src/MatrixMul.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="-847">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
